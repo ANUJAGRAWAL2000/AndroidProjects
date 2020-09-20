@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TeamNaugatFirstPro</string>
+    <string name="text_View">Card Creator</string>
+    <string name="From">From</string>
+    <string name="To">To</string>
+    <string name="Heading">Heading</string>
+    <string name="Message">Message</string>
+</resources>
